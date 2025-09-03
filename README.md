@@ -7,7 +7,7 @@
   <b>`It's a beautiful day outside...`</b>
   <samp>
       <br>
-      E aí? eu sou o <b>Guilherme Regis</b>
+      E aí? Eu sou o <b>Guilherme Regis</b>
   </samp>
 </div>
 

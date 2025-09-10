@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1000&color=00DBFF&background=FFFFFF00&center=true&width=900&lines=Sou+brasileiro!;Sou+um+estudante+de+Engenharia+de+Software;Seja+bem+vindo+ao+meu+Github;Stay+determined!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3500&pause=1000&color=00DBFF&background=FFFFFF00&center=true&width=1000&lines=Sou+brasileiro!;Sou+um+estudante+de+Engenharia+de+Software;Seja+bem+vindo+ao+meu+Github;Stay+determined!" alt="Typing SVG" />
 </div>
 
 <br>
